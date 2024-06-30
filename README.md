@@ -1,3 +1,3 @@
 <div style="width: 100%;">
-  <img src="ReadThis.svg" style="width: 100%;" alt="Click to see the source">
+  <a href="#"><img src="ReadThis.svg" style="width: 100%;" alt="Interactive EHHOP ED Project"></a>
 </div>
