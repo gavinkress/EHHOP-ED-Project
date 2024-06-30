@@ -206,16 +206,16 @@
 
                     <div class="qa" id="qa">
                         <h2>Q &amp; A</h2>
-                        <button class="collapsible" type="button">Example Question 1</button>
-                        <div class="content">
+                        <button class="collapsible active" type="button">Example Question 1</button>
+                        <div class="content" style="display: block;">
                             <p>Example Answer 1</p>
                         </div>
-                        <button class="collapsible" type="button">Example Question 2</button>
-                        <div class="content">
+                        <button class="collapsible active" type="button">Example Question 2</button>
+                        <div class="content" style="display: block;">
                             <p>Example Answer 2</p>
                         </div>
-                        <button class="collapsible" type="button">Example Question 3</button>
-                        <div class="content">
+                        <button class="collapsible active" type="button">Example Question 3</button>
+                        <div class="content" style="display: block;">
                             <p>Example Answer 3</p>
                         </div>
                     </div>
