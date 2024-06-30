@@ -1,12 +1,20 @@
-# Icahn School of Medicine at Mount Sinai EHHOP ED Project    ![Logo](https://upload.wikimedia.org/wikipedia/en/thumb/9/94/ISMMS.svg/156px-ISMMS.svg.png)
+# Icahn School of Medicine at Mount Sinai EHHOP ED Project
 
 
 ---
 
 ### Navigation
-- [About](#about)
-- [Q & A](#q--a)
-- [Contact](#contact)
+
+<div style="display: flex; justify-content: center; align-items: center; background-color: #00aaff; padding: 10px;">
+    <nav style="display: flex; flex-grow: 1; justify-content: center;">
+        <a href="#info" style="color: #fff; padding: 14px 20px; text-decoration: none; text-transform: uppercase; transition: background 0.3s ease; font-family: 'Open Sans', sans-serif;">About</a>
+        <a href="#qa" style="color: #fff; padding: 14px 20px; text-decoration: none; text-transform: uppercase; transition: background 0.3s ease; font-family: 'Open Sans', sans-serif;">Q & A</a>
+        <a href="#contact" style="color: #fff; padding: 14px 20px; text-decoration: none; text-transform: uppercase; transition: background 0.3s ease; font-family: 'Open Sans', sans-serif;">Contact</a>
+    </nav>
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/ISMMS.svg/156px-ISMMS.svg.png" alt="Logo" style="width: 100px; margin-left: 20px; background: radial-gradient(circle, #ffffff 70%, #00aaff 100%); padding: 20px; border-radius: 20px;">
+
+
+</div>
 
 ---
 
