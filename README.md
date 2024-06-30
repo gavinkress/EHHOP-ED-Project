@@ -1,7 +1,11 @@
 #  
+
+<svg fill="none" viewBox="0 0 700 1200" width="700" height="1200" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
 <head>
     <meta charset="UTF-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
+<title>EHHOP ED Project</title>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap');
@@ -208,3 +212,5 @@
     });
 </script>
 </body>
+    </foreignObject>
+</svg>
