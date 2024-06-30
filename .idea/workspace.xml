@@ -7,7 +7,6 @@
     <list default="true" id="10c93d92-6250-4428-b024-767c8eee4a6a" name="Changes" comment="Initialization">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Main Analysis Notebook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Main Analysis Notebook.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +74,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable",
+    "settings.editor.selected.configurable": "editor.preferences.tabs",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -117,15 +116,7 @@
       <workItem from="1719753640987" duration="9137000" />
       <workItem from="1719762801121" duration="2295000" />
       <workItem from="1719765112700" duration="4441000" />
-      <workItem from="1719769570403" duration="17648000" />
-    </task>
-    <task id="LOCAL-00009" summary="Initialization">
-      <option name="closed" value="true" />
-      <created>1719743465222</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1719743465222</updated>
+      <workItem from="1719769570403" duration="19705000" />
     </task>
     <task id="LOCAL-00010" summary="Initialization">
       <option name="closed" value="true" />
@@ -511,7 +502,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719785107714</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="Initialization">
+      <option name="closed" value="true" />
+      <created>1719787915997</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1719787915997</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
