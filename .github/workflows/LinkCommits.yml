@@ -5,8 +5,7 @@ name: LinkCommits
 # Controls when the workflow will run
 on:
   # Triggers the workflow on push or pull request events but only for the "master" branch
-  push:
-    branches: [ "master" ]
+
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -28,5 +27,5 @@ jobs:
         run: |
           git config --global user.email "gavinkress@gmail.com"
           git config --global user.name "gavinkress"
-          git commit README.md -m "Updating ReadMe"
-          git push
+          git commit README.md -m "Updating ReadMe" --allow-empty-message --no-verify
+          git push --force --allow-empty-message --no-verify
