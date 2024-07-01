@@ -1,4 +1,4 @@
-# Click Here for the Main Analysis Jupyter Notebook View in NBViewer.
+# Click Here for the Main Analysis Jupyter Notebook View in NBViewer
 
 
 <div align="center">
