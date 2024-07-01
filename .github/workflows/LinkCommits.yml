@@ -28,5 +28,5 @@ jobs:
         run: |
           git config --global user.email "gavinkress@gmail.com"
           git config --global user.name "gavinkress"
-          git commit README.md -m "Updating ReadMe" --force
-          git push --force
+          git commit README.md -m "Updating ReadMe" --allow-empty-message --no-verify
+          git push --force --allow-empty-message --no-verify
