@@ -201,7 +201,12 @@
 
                     <div class="info" id="info">
                         <h2>Analysis Information</h2>
-                        <p>About Icahn School of Medicine at Mount Sinai's EHHOP Analysis and methods.</p>
+                        <p>Each instance of analyzing the relationship between two catagorical variables invloved calculating an Odds Ratio, Relative Risk, and conducting a Chi^2 test. 
+                            For Mixed variables, an ROC-AUC analysis was conducted with a standard t-test. In places where comparative tests are not possible, descriptive metrics are included. 
+                            When groups or sets of variables were analyzed, each combination was treated and an individual catagorical variable with its own binary value (e.g. if the event was associated with that combination the value is 1 and 0 otherwise).
+                            When answering patient specific questions, individual patients were treated as datapoints, and when answering ER visist specific questions, individual ER visits were treated as unique data points. 
+                            The analyses for the avoidability of a visit was conducted from three perspectives (all within the catagorical variables framework referenced above. First, for ER visits that did occur, was the variable in question predictive of its un/avoidability. 
+                            Second, was the variable in question predictive of the occurance of an avoidable visit at all (regardless of if a visit occured). Third, analogous to second but for unavoidable.</p>
                     </div>
 
                     <div class="qa" id="qa">
