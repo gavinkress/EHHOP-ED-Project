@@ -215,17 +215,21 @@
 
                     <div class="qa" id="qa">
                         <h2>Q &amp; A</h2>
-                        <button class="collapsible active" type="button">Example Question 1</button>
+                        <button class="collapsible active" type="button">What is EHHOP?</button>
                         <div class="content" style="display: block;">
-                            <p>Example Answer 1</p>
+                            <p>The East Harlem Health Outreach Partnership (EHHOP) is the Icahn School of Medicine at Mount Sinai's student-run, physician-supervised, free clinic. We provide care to uninsured adults in East Harlem, and our services are confidential and provided at no cost.
+
+                                Remarkable for its longitudinal, primary care model, the East Harlem Health Outreach Partnership offers a robust range of services. 
+                                
+                                Since its founding in 2004, the clinic has grown substantially, serving more than 250 patients annually, with more than 1,000 visits across six medical specialties: OB/GYN; ophthalmology; physical medicine and rehabilitation/podiatry; liver/gastrointestinal; mental health; and cardiology.</p>
                         </div>
-                        <button class="collapsible active" type="button">Example Question 2</button>
+                        <button class="collapsible active" type="button"> Question 2</button>
                         <div class="content" style="display: block;">
-                            <p>Example Answer 2</p>
+                            <p>Answer 2</p>
                         </div>
-                        <button class="collapsible active" type="button">Example Question 3</button>
+                        <button class="collapsible active" type="button">Question 3</button>
                         <div class="content" style="display: block;">
-                            <p>Example Answer 3</p>
+                            <p>Answer 3</p>
                         </div>
                     </div>
 
