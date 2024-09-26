@@ -16,8 +16,4 @@
   <a href="#"><img src="ReadThis.svg" style="width: 100%;" alt="Interactive EHHOP ED Project"></a>
 </div>
 
-<div style="width: 100%;">
-  <a href="#"><img src="Live_Copy_of_Main_Analysis_Notebook.ipynb" style="width: 100%;" alt="Main Jupyter"></a>
-</div>
-
 ----
